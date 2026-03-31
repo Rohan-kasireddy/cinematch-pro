@@ -1,0 +1,3 @@
+com\cinematch\controller\MovieController.class
+com\cinematch\service\MovieService.class
+com\cinematch\CinematchApplication.class
